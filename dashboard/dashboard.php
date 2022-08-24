@@ -13,7 +13,6 @@
 
 <html lang="en">
   <head>
-    <!-- Copyright @ 2021 Sistem Pakar Pendeteksi Penyakit Menggunakan Metode Forward Chaining -->
     <!-- Meta TAG -->
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
